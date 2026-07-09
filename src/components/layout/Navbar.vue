@@ -29,7 +29,7 @@
       :show-close="false"
     >
       <div class="activation-content">
-        <p class="desc">请输入您在闲鱼购买的专属激活密钥，以解锁无限制的高清导出特权。</p>
+        <p class="desc">感谢使用极速排版工坊！为了保护开发权益，高清导出功能仅对会员开放。<br/><br/>如果您已在闲鱼平台获取了专属激活码，请在此输入以永久解锁无水印导出特权。</p>
         <el-input 
           v-model="licenseInput" 
           placeholder="请输入激活码 (如: VIP-XXXXXX)" 
