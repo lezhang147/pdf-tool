@@ -32,7 +32,7 @@
         <p class="desc">请输入您在闲鱼购买的专属激活密钥，以解锁无限制的高清导出特权。</p>
         <el-input 
           v-model="licenseInput" 
-          placeholder="请输入激活码 (如: 888888)" 
+          placeholder="请输入激活码 (如: VIP-XXXXXX)" 
           size="large"
           clearable
         />
